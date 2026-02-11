@@ -5,7 +5,7 @@ I'm an enthousiast user of Obsidian slides.
 This repository simplifies, in a **patchy way**, my `edit-publish in GitHub pages-edit again` workflow.
 
 ## How to use
-1. Press `Use this template` on GitHub. Make sure to allow the creation of a `gh-pages` branch
+1. Press `Use this template` on GitHub. Make sure to clone all branches.
 2. Clone your copy locally
 3. Edit `Slides.md` at your convenience
 4. Generate the `html`
