@@ -150,18 +150,9 @@ note: Materials sent in advance let people arrive prepared, so the meeting can f
 note: Transition: now we're in the meeting. What makes it different from just chatting?
 
 --
-## A nugget of communication theory
+### A nugget of communication theory
 
-All communication acts have the same three elements:
-
-| Purpose | Example |
-|---|---|
-| Inform | Project update |
-| Decide | Go / no-go |
-| Explore | Brainstorming |
-| Align | Kick-off |
-
-Mixing them creates confusion.
+![](https://github.com/pabrod/chairing-meetings-slides/blob/main/img/comm.png?raw=true)
 
 note: This is a micro-lesson in communication theory. Keep it light and practical.
 
