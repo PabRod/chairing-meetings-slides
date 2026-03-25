@@ -4,8 +4,8 @@ bg: https://github.com/PabRod/autodiff-slides/blob/main/_meta/_img/escience.png?
 ---
 
 <!-- slide bg="https://github.com/PabRod/autodiff-slides/blob/main/_meta/_img/escience-cover.png?raw=true" -->
-# Better meetings
-## For a better life
+# Best practices
+## for organizing meetings
 
 By Pablo Rodríguez-Sánchez
 
@@ -53,6 +53,7 @@ timeline
 
 ---
 ## Before we start
+![](https://github.com/pabrod/chairing-meetings-slides/blob/main/img/qr.png?raw=true)
 
 [pabrod.github.io](pabrod.github.io)
 
@@ -72,8 +73,8 @@ note: an anecdote
 --
 ## Yet we can't stop having them
 
-+ Decisions that need to be taken
-+ Problems that need real-time input
++ Decisions need to be taken
++ Some problems need real-time input
 + Face to face time builds trust
 
 note: Some things genuinely require everyone in the same (virtual) room:
@@ -90,7 +91,8 @@ note: The best outcome is often avoiding the meeting altogether.
 
 Before booking, ask yourself:
 
-how is this meeting better than an email?
++ How is this meeting better than an email?
++ Be a silent hero!
 
 --
 ## Politely declining meetings
@@ -134,6 +136,10 @@ note: Help the audience develop an intuition for the true cost of meetings.
 + The meeting is for **discussion**, not for **reading**.
 
 note: Materials sent in advance let people arrive prepared, so the meeting can focus on dialogue rather than information transfer.
+
+--
+
+![](https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,q_auto,w_720/64a90d67beb223001d212afc.jpg)
 
 ---
 # During the meeting
