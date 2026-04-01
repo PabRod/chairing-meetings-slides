@@ -55,7 +55,7 @@ timeline
 ## Before we start
 ![](https://github.com/pabrod/chairing-meetings-slides/blob/main/img/qr.png?raw=true)
 
-[pabrod.github.io](pabrod.github.io)
+[pabrod.github.io/today.html](https://pabrod.github.io/today.html)
 
 
 ---
