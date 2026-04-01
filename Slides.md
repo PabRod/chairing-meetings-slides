@@ -57,6 +57,7 @@ timeline
 
 [pabrod.github.io](pabrod.github.io)
 
+
 ---
 
 ![](https://media-whichmedia.s3.ap-southeast-1.amazonaws.com/media/large/3/2/32912cd0135e.jpeg)
@@ -108,7 +109,7 @@ note: Suggest a short formula: "I don't think I can contribute much here. Could 
 
 note: but from now on, let's assume we want to proceed with the meeting
 
----
+--
 ## The agenda
 
 + **Why** are we meeting?
@@ -145,24 +146,12 @@ note: Materials sent in advance let people arrive prepared, so the meeting can f
 # During the meeting
 
 --
-## How is this different from a corridor conversation?
 
-note: Transition: now we're in the meeting. What makes it different from just chatting?
-
---
-### A nugget of communication theory
-
-![](https://github.com/pabrod/chairing-meetings-slides/blob/main/img/comm.png?raw=true)
-
-note: This is a micro-lesson in communication theory. Keep it light and practical.
-
---
 ## Sticking to the point
 
 + Meetings naturally become brainstorming sessions.
 + Particularly in academy.
 
-note: The Manhattan Project used strict compartmentalisation in meetings. Each person only knew and discussed what was necessary for their role. It's a dramatic example, but the principle scales down beautifully to everyday work.
 
 --
 
@@ -202,7 +191,7 @@ A meeting without action points is just a conversation. Every action needs:
 # After the meeting
 
 --
-## Assigning tasks and keeping track
+## Keeping it actionable
 
 - Send a brief summary with action points
 - Use a shared tracker
@@ -234,3 +223,15 @@ If you must meet, make it count.
 By Pablo Rodríguez-Sánchez
 
 [pabrod.github.io](pabrod.github.io)
+
+---
+
+# Optional materials
+
+--
+
+### A nugget of communication theory
+
+![](https://github.com/pabrod/chairing-meetings-slides/blob/main/img/comm.png?raw=true)
+
+note: This is a micro-lesson in communication theory. Keep it light and practical.
