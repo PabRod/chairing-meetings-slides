@@ -53,7 +53,7 @@ timeline
 
 ---
 ## Before we start
-![|300](https://github.com/pabrod/obsidian-slides/blob/main/img/qr.png?raw=true)
+<img src="https://github.com/pabrod/obsidian-slides/blob/main/img/qr.png?raw=true" width="300">
 
 [pabrod.github.io/today](https://pabrod.github.io/today.html)
 
